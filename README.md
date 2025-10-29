@@ -14,6 +14,12 @@ Install dependencies:
 
   bash
   pip install -r requirements.txt
+
+
+
+aiogram==3.10.0
+sympy==1.13
+
    
 
 
